@@ -1,0 +1,6 @@
+.terraform/
+config-map-aws-auth_*.yaml
+kubeconfig_*
+secret.tfvars
+terraform.tfstate
+terraform.tfstate.backup
